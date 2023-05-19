@@ -1,4 +1,4 @@
-let url = "http://api.weatherapi.com/v1/forecast.json?key=1ec9042d3e5c4d21aea202729232002&q=cairo&days=3&aqi=no&alerts=no"
+let url = "https://api.weatherapi.com/v1/forecast.json?key=1ec9042d3e5c4d21aea202729232002&q=cairo&days=3&aqi=no&alerts=no"
 let InputSearch = document.querySelector("#search")
 let btnSearch = document.querySelector("#searchbtn")
 let date = new Date()
